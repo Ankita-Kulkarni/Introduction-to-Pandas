@@ -7,6 +7,7 @@ It consists of single and multi-dimensional data structures for data manipulatio
 A single-dimensional data structure is known as Series Object.
 A multi-dimensional data structure is known as a Data frame.
 
-You can also refer my article regarding "Introduction to Pandas":
+You can also refer my article regarding "Introduction to Pandas": https://medium.com/@kulkarni2ankita/introduction-to-pandas-d110878caa98
+
  
 ![image](https://user-images.githubusercontent.com/83875977/161289414-2933c7d3-a949-4230-9e2d-0a7cae30baa6.png)
